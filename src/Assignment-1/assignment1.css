@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+}
+img {
+    width: 800px;
+    height: 386.65px;
+    object-fit: cover;
+  }
+.parent{
+    display:grid;
+    height: 100vh;
+    width: 100%;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+}
+#child1{
+    background-color: aliceblue;
+}
+#child2{
+    background-color: bisque;
+}
+#child3{
+    background-color: beige;
+}
+#child4{
+    background-color: rgb(80, 80, 72);
+    padding-top: 25%;
+    text-align: center;
+}
