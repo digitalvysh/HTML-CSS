@@ -1,7 +1,78 @@
-/* Our CSS file. */
+.logo{
+    width: 60px;
+    height: 50px;
+    float: left;
+    margin-top: 6vh;
+    margin-left: 1vh;
+}
+input{
+    float: right;
+    margin: 8vh 1vh 0 0;
+    border-radius: 7px;
+}
+header{
+    width: 100%;
+    height: 20vh;
+    background-color: rgb(189, 210, 224);
+    border: 1px solid rgb(241, 234, 234);
+}
+nav{
+    background-color: rgb(245, 245, 243);
+    height: 5vh;
+    margin: 21vh 5px 0 5px;
+    border: 1px solid black;
+}
+ul{
+    list-style: none;
+}
+.nav{
+    display: inline;
+    margin-left: 15%;
+    margin-bottom: 10%;
+}
+.left{
+    margin-top: 3vh;
+}
+.right{
+    margin-top: 2vh;
+}
+aside{
+    display: inline-block;
+    vertical-align: top;
+    background-color: rgb(251, 253, 253);
+    width: 10%;
+    height: 60vh;
+    border: 1px solid rgb(15, 15, 15);
+    margin-top: 7vh;
+    margin-left: 0.9%;
+}
 
-
-.container, .content {
-width: 100%;
-height: 100%;
+#main-content-section{
+    display: inline-block;
+    width: 75%;
+    height: 470px;
+    margin-top: 7vh;
+    border: 1px;
+    border-style: solid;
+    vertical-align: top;
+    margin-left: 0.9%;
+}
+.post-img{
+    width:32%;
+    height: 47%;
+    margin-top: 0.8%;
+    margin-left: 0.8%;
+}
+#page-footer{
+    border-style:solid;
+    border:1px solid black;
+    margin: 8px;
+    text-align: center;
+}
+.l{
+    width:100%;
+    text-align: left;
+}
+.p{
+    border:0 100px 0 100px;
 }
