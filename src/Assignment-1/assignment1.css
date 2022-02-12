@@ -15,6 +15,7 @@ img {
 }
 #child1{
     background-color: aliceblue;
+    padding-top: 10%;
 }
 #child2{
     background-color: bisque;
@@ -23,7 +24,7 @@ img {
     background-color: beige;
 }
 #child4{
-    background-color: rgb(80, 80, 72);
-    padding-top: 25%;
+    background-color: #f2f2f2;
+    padding-top: 30%;
     text-align: center;
 }
