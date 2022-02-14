@@ -40,7 +40,7 @@ nav li:hover {
     cursor: pointer;
 }
 #hero {
-    background: url('bg.jpg') no-repeat;
+    background: url('img/bg.jpg') no-repeat;
     background-size: cover;
     text-align: center;
     padding: 50px 0;
